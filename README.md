@@ -1,4 +1,4 @@
-### <p align="center"> EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation
+### <p align="center"> EPCFormer: Expression Prompt Collaboration Transformer for <br /> Universal Referring Video Object Segmentation
 <br>
 <div align="center">
   Jiajun&nbsp;Chen</a> <b>&middot;</b>
@@ -6,7 +6,7 @@
   Zhiqiang&nbsp;Xiao</a> <b>&middot;</b>
   Haolong&nbsp;Fu</a> <b>&middot;</b>
   Ke&nbsp;Nai</a> <b>&middot;</b>
-  <a href="https://www.researchgate.net/profile/Kailun-Yang" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
+  <a href="https://yangkailun.com/" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
   Zhiyong&nbsp;Li</a>
   <br> <br>
   <a href="" target="_blank">Paper</a>
