@@ -11,7 +11,6 @@
   <br> <br>
   <a href="" target="_blank">Paper</a>
 </div>
-####
 
 <br>
 <p align="center">Code will be released soon. </p>
