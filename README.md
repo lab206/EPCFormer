@@ -9,7 +9,7 @@
   <a href="https://yangkailun.com/" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
   Zhiyong&nbsp;Li</a>
   <br> <br>
-  <a href="" target="_blank">Paper</a>
+  <a href="https://arxiv.org/pdf/2308.04162.pdf" target="_blank">Paper</a>
 </div>
 
 <br>
@@ -23,3 +23,13 @@
 
 ### Abstract
 Audio-guided Video Object Segmentation (A-VOS) and Referring Video Object Segmentation (R-VOS) are two highly-related tasks, which both aim to segment specific objects from video sequences according to user-provided expression prompts. However, due to the challenges in modeling representations for different modalities, contemporary methods struggle to strike a balance between interaction flexibility and high-precision localization and segmentation. In this paper, we address this problem from two perspectives: the alignment representation of audio and text and the deep interaction among audio, text, and visual features. First, we propose a universal architecture, the Expression Prompt Collaboration Transformer, herein EPCFormer. Next, we propose an Expression Alignment (EA) mechanism for audio and text expressions. By introducing contrastive learning for audio and text expressions, the proposed EPCFormer realizes comprehension of the semantic equivalence between audio and text expressions denoting the same objects. Then, to facilitate deep interactions among audio, text, and video features, we introduce an Expression-Visual Attention (EVA) mechanism. The knowledge of video object segmentation in terms of the expression prompts can seamlessly transfer between the two tasks by deeply exploring complementary cues between text and audio. Experiments on well-recognized benchmarks demonstrate that our universal EPCFormer attains state-of-the-art results on both tasks.
+
+### Citation
+~~~bibtex
+@article{chen2023epcformer,
+      title={EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation}, 
+      author={Jiajun Chen and Jiacheng Lin and Zhiqinag Xiao and Haolong Fu and Ke Nai and Kailun Yang and Zhiyong Li},
+      journal={arXiv preprint arXiv:2308.04162},
+      year={2023}
+}
+~~~
